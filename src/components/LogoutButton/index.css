@@ -1,0 +1,11 @@
+/* Write your CSS code here */
+
+
+.button-container {
+    display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.logout-button {
+    cursor: pointer;
+}
